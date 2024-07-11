@@ -1,4 +1,4 @@
- <h1 align="center"> CurriculoWeb com HTML / CSS </h1>
+ <h1 align="center"> Projeto Perfumaria </h1>
 
 <p align="center">
 Projeto desenvolvivo para praticar os conceitos de HTML, CSS e Responsividade. Desenvolvido em Desktop first.
@@ -29,7 +29,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O projeto tem como objetivo o desenvolvimento de um curriculo web responsivo com versão dark mode.
+O projeto tem como objetivo o desenvolvimento de um site de uma perfumária.
 
 ## :memo: Licença
 
